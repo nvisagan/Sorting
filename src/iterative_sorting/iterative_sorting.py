@@ -1,4 +1,6 @@
 # TO-DO: Complete the selection_sort() function below 
+#O(n^2)
+
 def selection_sort(arr):
     # loop through n-1 elements
     for i in range(0, len(arr) - 1):
